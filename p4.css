@@ -1,0 +1,19 @@
+body {
+    background-color: antiquewhite;
+}
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.qoute {
+    width: 50%;
+    margin-left: 25%;
+    color: coral;
+
+}
+.img {
+    border: 5px solid rgb(0, 0, 0);
+    width: 100%;
+    padding: 10px;
+}

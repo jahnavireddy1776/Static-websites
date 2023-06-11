@@ -1,0 +1,30 @@
+.bold {
+    text-align: center;
+    color: rgb(224, 27, 27);
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;
+    font-weight: bolder;
+}
+.work {
+    color: rgb(20, 42, 170);
+    font-size: large;
+    font-size: larger;
+    font-size: 1.5rem;
+}
+.head {
+    color: rgb(51, 255, 0);
+    font-size: 1.5rem;
+}
+.links {
+
+    font-size: 1.5rem;
+    color: deepskyblue;
+}
+h1 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+.total {
+    background-color: rgb(168, 150, 170);
+}
